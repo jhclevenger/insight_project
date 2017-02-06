@@ -1,0 +1,72 @@
+name: flask_app
+channels:
+- !!python/unicode
+  'defaults'
+dependencies:
+- !!python/unicode
+  'click=6.7=py27_0'
+- !!python/unicode
+  'flask=0.12=py27_0'
+- !!python/unicode
+  'itsdangerous=0.24=py27_0'
+- !!python/unicode
+  'jinja2=2.9.4=py27_0'
+- !!python/unicode
+  'libiconv=1.14=0'
+- !!python/unicode
+  'libxml2=2.9.4=0'
+- !!python/unicode
+  'libxslt=1.1.29=0'
+- !!python/unicode
+  'lxml=3.7.2=py27_0'
+- !!python/unicode
+  'markupsafe=0.23=py27_2'
+- !!python/unicode
+  'mkl=2017.0.1=0'
+- !!python/unicode
+  'numpy=1.11.3=py27_0'
+- !!python/unicode
+  'openssl=1.0.2k=0'
+- !!python/unicode
+  'pandas=0.19.2=np111py27_1'
+- !!python/unicode
+  'pip=9.0.1=py27_1'
+- !!python/unicode
+  'python=2.7.13=0'
+- !!python/unicode
+  'python-dateutil=2.6.0=py27_0'
+- !!python/unicode
+  'pytz=2016.10=py27_0'
+- !!python/unicode
+  'readline=6.2=2'
+- !!python/unicode
+  'scikit-learn=0.18.1=np111py27_1'
+- !!python/unicode
+  'scipy=0.18.1=np111py27_1'
+- !!python/unicode
+  'setuptools=27.2.0=py27_0'
+- !!python/unicode
+  'six=1.10.0=py27_0'
+- !!python/unicode
+  'sqlite=3.13.0=0'
+- !!python/unicode
+  'tk=8.5.18=0'
+- !!python/unicode
+  'werkzeug=0.11.15=py27_0'
+- !!python/unicode
+  'wheel=0.29.0=py27_0'
+- !!python/unicode
+  'zlib=1.2.8=3'
+- pip:
+  - beautifulsoup4==4.5.3
+  - bs4==0.0.1
+  - oauthlib==2.0.1
+  - omdb==0.7.0
+  - requests==2.5.3
+  - requests-oauthlib==0.7.0
+  - tmdb==0.0.0
+  - tmdbsimple==1.5.0
+  - tweepy==3.5.0
+  - vadersentiment==2.5
+prefix: !!python/unicode '/Users/johnclevenger/anaconda/envs/flask_app'
+
